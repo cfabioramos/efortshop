@@ -186,6 +186,7 @@ function init() {
 	    var mapOptions = {
 	        zoom: 15,
 	        center: myLatLng,
+            mapTypeId: google.maps.MapTypeId.HYBRID,
 	        disableDefaultUI: true,
 	        scrollwheel: false,
 	        navigationControl: true,
