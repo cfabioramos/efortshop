@@ -587,27 +587,31 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 
 				<div class="sec-title text-center wow animated fadeInDown">
 					<h2>Contato</h2>
-					<p>Deixe a sua mensagem</p>
+					<p>Deixe a sua mensagem, que logo logo entraremos em contato.</p>
 				</div>
 
 
 				<div class="col-md-7 contact-form wow animated fadeInLeft">
 					<form action="#" method="post">
 						<div class="input-field">
-							<input type="text" name="name" class="form-control"
-								placeholder="Nome...">
+							<input type="text" id="name" name="name" class="form-control" required="true" 
+								maxlength="60" placeholder="Nome...">
 						</div>
 						<div class="input-field">
-							<input type="email" name="email" class="form-control"
-								placeholder="Email...">
+							<input type="email" id="email" name="email" class="form-control" required="true"
+								maxlength="60" placeholder="Email...">
 						</div>
 						<div class="input-field">
-							<input type="text" name="subject" class="form-control"
-								placeholder="Assunto...">
+							<input type="num" id="whatsapp" name="whatsapp" class="form-control" required="true"
+								maxlength="30" placeholder="Whatsapp...">
 						</div>
 						<div class="input-field">
-							<textarea name="message" class="form-control"
-								placeholder="Mensagem..."></textarea>
+							<input type="text" id="subject" name="subject" class="form-control" required="true"
+								maxlength="40" placeholder="Assunto...">
+						</div>
+						<div class="input-field">
+							<textarea id="message" name="message" class="form-control" required="true"
+								maxlength="300" placeholder="Mensagem..."></textarea>
 						</div>
 						<button type="submit" id="submit" class="btn btn-blue btn-effect">Enviar</button>
 					</form>
@@ -630,7 +634,7 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 						</p>
 						<p>
 							<i class="fa fa-envelope"></i>Email: 
-							<a href="mailto:contato@efortshop.com">contato@efortshop.com</a>
+							<a href="mailto:contato@efortshop.com.br">contato@efortshop.com.br</a>
 						</p>
 					</address>
 				</div>
@@ -680,8 +684,7 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 					</div>
 
 					<p>
-						Copyright &copy; 2014-2015 Design and Developed By<a
-							href="http://www.themefisher.com">Themefisher</a>
+						Copyright &copy; 2016 Designed and Developed By EfortShop
 					</p>
 				</div>
 			</div>
