@@ -15,10 +15,10 @@
 <title>EfortShop, a sua melhor parceira em TI.</title>
 <link rel="icon" type="image/png" href="img/EforteShop_LOGOMARCA.png">
 <!-- Meta Description -->
-<meta name="description" content="Blue One Page Creative HTML5 Template">
+<meta name="description" content="EfortShop Page">
 <meta name="keywords"
-	content="one page, single page, onepage, responsive, parallax, creative, business, html5, css3, css3 animation">
-<meta name="author" content="Muhammad Morshed">
+	content="e-commerce, ecommerce, sistemas, software, parallax, creative, business, sistemas">
+<meta name="author" content="EfortShop - Carlos Fábio">
 
 <!-- Mobile Specific Meta -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -47,6 +47,29 @@
 
 <!-- Modernizer Script for old Browsers -->
 <script src="js/modernizr-2.6.2.min.js"></script>
+
+<!-- Piwik -->
+<!--
+	<script type="text/javascript">
+		var _paq = _paq || [];
+	  	_paq.push(['trackPageView']);
+	  	_paq.push(['enableLinkTracking']);
+	  	(function() {
+	    	var u="//cluster-piwik.locaweb.com.br/";
+	    	_paq.push(['setTrackerUrl', u+'piwik.php']);
+	    	_paq.push(['setSiteId', 8149]);
+	    	var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+	    	g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+	  	})();
+	</script>
+	<noscript><p><img src="//cluster-piwik.locaweb.com.br/piwik.php?idsite=8149" style="border:0;" alt="" /></p></noscript>
+-->
+<!-- End Piwik Code -->
+
+<?php
+	$msgNews= 0;
+	@$msgNews= $_REQUEST['msgNews'];
+?>
 
 </head>
 
@@ -78,7 +101,7 @@
 
 				<!-- logo -->
 				<h1 class="navbar-brand">
-					<a href="#body"> <!-- img alt="EfortShop"
+					<a href="#body"> <!--img alt="EfortShop"
 						src="img/EforteShop.com.br_LOGO.png"
 						style="width: 180px; height: 60px;"></img --> efortshop
 					</a>
@@ -229,8 +252,7 @@
 					<div class="welcome-block">
 						<h3>Sobre a EfortShop</h3>
 						<div class="message-body">
-						
-							<img src="img/logomarca-001.png" class="pull-left" alt="member">
+							<img src="img/EforteShop_LOGOMARCA.png" class="pull-left" alt="member">
 							<p>
 								Fundada no ano de 1992, a Moura & Mascarenhas LTDA iniciou suas atividades no segmento de vendas nas áreas de papelaria, livraria e suprimentos de informática. 
 Após alguns anos iniciamos uma filial para atuar com maior foco na área de TI, pois percebemos que este era, e continua sendo, um mercado muito carente na Bahia.
@@ -278,8 +300,8 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 							<i class="fa fa-file-code-o fa-3x"></i>
 						</div>
 						<h3>Desenvolvimento de Sites e Sistemas</h3>
-						<p>Somos especialistas em desenvolvimento de sites e sistemas
-							de grande porte.</p>
+						<p>Somos especialistas em desenvolvimento de sites, 
+						e-commerce e sistemas de grande porte.</p>
 					</div>
 				</div>
 
@@ -448,7 +470,7 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 				<div class="row">
 
 					<div class="sec-title text-center white wow animated fadeInDown">
-						<h2>What people say</h2>
+						<h2>O que os nossos clientes dizem</h2>
 					</div>
 
 					<div id="testimonial" class=" wow animated fadeInUp">
@@ -589,31 +611,8 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 					<p>Deixe a sua mensagem, que logo logo entraremos em contato.</p>
 				</div>
 
-
 				<div class="col-md-7 contact-form wow animated fadeInLeft">
-					<form action="#" method="post">
-						<div class="input-field">
-							<input type="text" id="name" name="name" class="form-control" required="true" 
-								maxlength="60" placeholder="Nome...">
-						</div>
-						<div class="input-field">
-							<input type="email" id="email" name="email" class="form-control" required="true"
-								maxlength="60" placeholder="Email...">
-						</div>
-						<div class="input-field">
-							<input type="num" id="whatsapp" name="whatsapp" class="form-control" required="true"
-								maxlength="30" pattern="\([0-9]{2}\) [0-9]{4,6}-[0-9]{3,4}$" placeholder="Whatsapp... (DDD) 99999-9999">
-						</div>
-						<div class="input-field">
-							<input type="text" id="subject" name="subject" class="form-control" required="true"
-								maxlength="40" placeholder="Assunto...">
-						</div>
-						<div class="input-field">
-							<textarea id="message" name="message" class="form-control" required="true"
-								maxlength="300" placeholder="Mensagem..."></textarea>
-						</div>
-						<button type="submit" id="submit" class="btn btn-blue btn-effect">Enviar</button>
-					</form>
+					<iframe src="formContact.php" width="100%" height="479px"></iframe>
 				</div>
 
 				<div class="col-md-5 wow animated fadeInRight">
@@ -654,41 +653,72 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 			<div class="row text-center">
 				<div class="footer-content">
 					<div class="wow animated fadeInDown">
-						<p>newsletter signup</p>
-						<p>Get Cool Stuff! We hate spam!</p>
+						<p>assine para newsletter</p>
+						<p>E receba coisas legais. Nós não gostamos de spam!</p>
 					</div>
-					<form action="#" method="post"
-						class="subscribe-form wow animated fadeInUp">
+					<form action="processForm.php" method="post" class="subscribe-form wow animated fadeInUp">
 						<div class="input-field">
-							<input type="email" class="subscribe form-control"
-								placeholder="Enter Your Email...">
-							<button type="submit" class="submit-icon">
-								<i class="fa fa-paper-plane fa-lg"></i>
-							</button>
+							<input type="text" id="name" name="name" 
+							class="subscribe form-control" required="true" 
+								maxlength="60" placeholder="Nome...">
 						</div>
+						<div class="input-field">
+							<input type="email" id="email" name="email" 
+							class="subscribe form-control" required="true"
+								maxlength="60" placeholder="Email...">
+						</div>
+						<button type="submit" class="submit-icon">
+							<i class="fa fa-paper-plane fa-lg"></i>
+						</button>
 					</form>
 					<div class="footer-social">
 						<ul>
-							<li class="wow animated zoomIn"><a href="#"><i
-									class="fa fa-thumbs-up fa-3x"></i></a></li>
+							<li class="wow animated zoomIn"><a href="http://www.facebook.com/efortshop" target="#"><i
+									class="fa fa-facebook fa-3x"></i></a></li>
 							<li class="wow animated zoomIn" data-wow-delay="0.3s"><a
-								href="#"><i class="fa fa-twitter fa-3x"></i></a></li>
+								href="http://www.twitter.com/efortshop" target="#">
+								<i class="fa fa-twitter fa-3x"></i></a></li>
 							<li class="wow animated zoomIn" data-wow-delay="0.6s"><a
-								href="#"><i class="fa fa-skype fa-3x"></i></a></li>
+								href="http://www.instagram.com/efortshop" target="#">
+								<i class="fa fa-instagram fa-3x"></i></a></li>
 							<li class="wow animated zoomIn" data-wow-delay="0.9s"><a
-								href="#"><i class="fa fa-dribbble fa-3x"></i></a></li>
+								href="skype:live:45048bec7a8de0e9?call">
+								<i class="fa fa-skype fa-3x"></i></a></li>
 							<li class="wow animated zoomIn" data-wow-delay="1.2s"><a
-								href="#"><i class="fa fa-youtube fa-3x"></i></a></li>
+								href="https://www.youtube.com/watch?v=ubfeKEe9gjg" target="#">
+								<i class="fa fa-youtube fa-3x"></i></a></li>
+							<li class="wow animated zoomIn" data-wow-delay="1.5s"><a 
+							href="mailto:contato@efortshop.com.br?Subject=From%20site" target="_top">
+								<i class="fa fa-envelope-o fa-3x"></i></a></li>
 						</ul>
 					</div>
 
 					<p>
-						Copyright &copy; 2016 Designed and Developed By EfortShop
+						Copyright &copy; 2016 Designed and Developed By us :-)
 					</p>
 				</div>
 			</div>
 		</div>
 	</footer>
+
+  <!-- Modal -->
+  <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">
+          	<img alt="EfortShop"
+						src="img/EforteShop.com.br_LOGO.png"
+						style="width: 60px; height: 20px;"></img><br>
+				Mensagem Enviada
+			</h4>
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
 	<!-- Essential jQuery Plugins
 		================================================== -->
@@ -703,7 +733,6 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 	<!-- Google Map API -->
 	<script src="http://maps.google.com/maps/api/js?sensor=false"></script>
 	<!--script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyAak-zws68dKTBRXfCKQ8eBI2RU38FO1cc"></script-->
-	<!-- hash para efortshop1 -->
 	<!-- Owl Carousel -->
 	<script src="js/owl.carousel.min.js"></script>
 	<!-- jquery easing -->
@@ -715,5 +744,14 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 	<script src="js/wow.min.js"></script>
 	<!-- Custom Functions -->
 	<script src="js/main.js"></script>
+
+	<script type="text/javascript">
+		<?php if ($msgNews == 'true'): ?>
+			$("#myModal").modal();
+		<?php elseif ($msgNews == 'false'): ?>
+			alert('Erro no envio.');
+		<?php endif; ?>
+	</script>
+	
 </body>
 </html>
