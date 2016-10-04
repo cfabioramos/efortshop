@@ -9,17 +9,18 @@
 <!-- meta character set -->
 <meta charset="iso-8859-1">
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta http-equiv="content-language" content="pt-br">
 <http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <!-- Always force latest IE rendering engine or request Chrome Frame -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <title>EfortShop, a sua melhor parceira em TI.</title>
 <link rel="icon" type="image/png" href="img/EforteShop_LOGOMARCA.png">
 <!-- Meta Description -->
-<meta name="description" content="EfortShop Page">
-<meta name="keywords"
-	content="e-commerce, ecommerce, sistemas, software, parallax, creative, business, sistemas">
 <meta name="author" content="EfortShop - Carlos Fábio">
-
+<meta name="reply-to" content="framos@efortshop.com.br">
+<meta name="description" content="EfortShop Page. Para venda de equipamentos de informática e desenvolvimento de sites e e-commerce ">
+<meta name="keywords"
+	content="e-commerce, ecommerce, sistemas, software, parallax, desenvolvimento, business, sistemas">
 <!-- Mobile Specific Meta -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -608,7 +609,7 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 
 				<div class="sec-title text-center wow animated fadeInDown">
 					<h2>Contato</h2>
-					<p>Deixe a sua mensagem, que logo logo entraremos em contato.</p>
+					<p>Deixe a sua mensagem, que logo logo entraremos em contato. ;-)</p>
 				</div>
 
 				<div class="col-md-7 contact-form wow animated fadeInLeft">
@@ -654,7 +655,7 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 				<div class="footer-content">
 					<div class="wow animated fadeInDown">
 						<p>assine para newsletter</p>
-						<p>E receba coisas legais. Nós não gostamos de spam!</p>
+						<p>E receba coisas legais. Nós não gostamos de spam! ;-)</p>
 					</div>
 					<form action="processForm.php" method="post" class="subscribe-form wow animated fadeInUp">
 						<div class="input-field">
@@ -695,6 +696,8 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 
 					<p>
 						Copyright &copy; 2016 Designed and Developed By us :-)
+						<br>
+						Tags: Desenvolvimento de Software, E-Commerce, Ecommerce, Computadores, Notebooks e Equipamentos de Informática
 					</p>
 				</div>
 			</div>
@@ -737,6 +740,8 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 	<script src="js/owl.carousel.min.js"></script>
 	<!-- jquery easing -->
 	<script src="js/jquery.easing.min.js"></script>
+	<!-- jquery mask -->
+	<script type="text/javascript" src="js/jquery.mask.min.js"/></script>
 	<!-- Fullscreen slider -->
 	<script src="js/jquery.slitslider.js"></script>
 	<script src="js/jquery.ba-cond.min.js"></script>

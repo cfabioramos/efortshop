@@ -46,7 +46,7 @@
 ?>
 
 
-	<form action="processForm.php" method="post">
+	<form action="processForm.php" method="post" name="form">
 		<div class="input-field">
 			<input type="text" id="name" name="name" class="form-control" required="true" 
 				maxlength="60" placeholder="Nome...">
@@ -57,7 +57,7 @@
 		</div>
 		<div class="input-field">
 			<input type="num" id="whatsapp" name="whatsapp" class="form-control" required="true"
-				maxlength="30" pattern="\([0-9]{2}\) [0-9]{4,6}-[0-9]{3,4}$" placeholder="Whatsapp... (DDD) 99999-9999">
+				maxlength="30" placeholder="Celular...">
 		</div>
 		<div class="input-field">
 			<input type="text" id="subject" name="subject" class="form-control" required="true"
@@ -93,8 +93,13 @@
     </div>
   </div>
 
+<!-- Custom Functions -->
+<script src="js/main.js"></script>
 
 <script type="text/javascript">
+
+	mascaraTelefone( form.whatsapp );
+
 	<?php if ($msgNews == 'true'): ?>
 		$("#myModal").modal();
 	<?php elseif ($msgNews == 'false'): ?>
