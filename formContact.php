@@ -34,6 +34,8 @@
 
 <!-- Modernizer Script for old Browsers -->
 <script src="js/modernizr-2.6.2.min.js"></script>
+<!-- jquery mask -->
+<script type="text/javascript" src="js/jquery.mask.min.js"/></script>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
@@ -57,7 +59,7 @@
 		</div>
 		<div class="input-field">
 			<input type="num" id="whatsapp" name="whatsapp" class="form-control" required="true"
-				maxlength="30" pattern="\([0-9]{2}\) [0-9]{4,6}-[0-9]{3,4}$" placeholder="Whatsapp... (DDD) 99999-9999">
+				maxlength="30" pattern="\([0-9]{2}\) [0-9]{4,6}-[0-9]{3,4}$" placeholder="Celular... (DDD) 99999-9999">
 		</div>
 		<div class="input-field">
 			<input type="text" id="subject" name="subject" class="form-control" required="true"
@@ -93,6 +95,7 @@
     </div>
   </div>
 
+<script type="text/javascript">$("#whatsapp").mask("(00) 0000-00009");</script>
 
 <script type="text/javascript">
 	<?php if ($msgNews == 'true'): ?>
