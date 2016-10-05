@@ -162,9 +162,8 @@
 					<div class="slide-caption">
 						<div class="caption-content">
 							<h2>Sustentabilidade</h2>
-							<span> Em parceria com a JJ Lixo Eletrônico, lutamos para
-								melhorar o meio ambiente por meio do tratamento do nosso lixo
-								eletrônico.</span> <a href="#contact" class="btn btn-blue btn-effect">Contate-nos</a>
+							<span>Lutando para melhorar o meio ambiente, damos tratamento a todo o lixo
+								eletrônico que geramos ou recebemos.</span> <a href="#contact" class="btn btn-blue btn-effect">Contate-nos</a>
 						</div>
 					</div>
 
@@ -179,7 +178,7 @@
 						<div class="caption-content">
 							<h2>Trabalho com comprometimento em união</h2>
 							<span>Nossa força vem da nossa capacidade de perceber e
-								trabalhar com os anseios de cada colaborador.</span> <a href="#contact"
+								trabalhar com os anseios de todos.</span> <a href="#contact"
 								class="btn btn-blue btn-effect">Contate-nos</a>
 						</div>
 					</div>
