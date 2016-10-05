@@ -162,8 +162,8 @@
 					<div class="slide-caption">
 						<div class="caption-content">
 							<h2>Sustentabilidade</h2>
-							<span>Cuidamos do meio ambiente, também, dando tratamento a todo o lixo
-								eletrônico que geramos ou recebemos.</span> 
+							<span>Na nossa luta para melhorar o meio ambiente, <br>
+							passamos a dar tratamento a todo o lixo eletrônico que geramos ou recebemos.</span> 
 								<a href="#contact" class="btn btn-blue btn-effect">Contate-nos</a>
 						</div>
 					</div>
