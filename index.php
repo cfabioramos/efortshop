@@ -303,7 +303,7 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 						<p> Gostou do nosso site?
 						E das nossas <a href="#social">redes sociais</a>?
 						Sabe, somos facilmente encontrados nos sites de busca...<br>
-						Queremos te deixar bem vistos na internet, <a href="#contact">contate-nos</a>.
+						Queremos te deixar bem visto na internet, <a href="#contact">contate-nos</a>.
 						</p>
 					</div>
 				</div>
@@ -317,9 +317,9 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 						</div>
 						<h3>Talvez em redes de computadores...</h3>
 						<p> 
-						<b>Montagem ou manutenção de uma rede? Servidores?</b><br>
-						Atuamos com montagem e configuração de redes de
-							computadores.</p>
+						<b>Infraestrutura ou manutenção de uma rede? Servidores?</b><br>
+						Também atuamos com montagem, configuração e manutenção 
+						de redes de computadores.</p>
 					</div>
 				</div>
 
@@ -336,9 +336,7 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 							Preocupados com o meio ambiente, decidimos nos tornar um centro
 							de coleta de lixo eletrônico. Esse é um trabalho feito em
 							parceria com a <a href="http://www.ecycle.com.br/postos/cooperativa/ba/salvador/jj-lixo-eletronico/20625" 
-								target="#">JJ Lixo Eletrônico</a>. <a
-								href="https://www.youtube.com/watch?v=ubfeKEe9gjg" target="#">Se
-								conscientize S2</a> 
+								target="#">JJ Lixo Eletrônico</a>. Participe conosco! 
 						</p>
 					</div>
 				</div>
