@@ -276,15 +276,14 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 
 				<div class="sec-title text-center">
 					<h2 class="wow animated bounceInLeft">Serviços</h2>
-					<p class="wow animated bounceInRight">Nossas principais
-						atividades</p>
+					<p class="wow animated bounceInRight">Nossas Especialidades</p>
 				</div>
 
 				<div
 					class="col-md-3 col-sm-6 col-xs-12 text-center wow animated zoomIn">
 					<div class="service-item">
 						<div class="service-icon">
-							<i class="fa fa-file-code-o fa-3x"></i>
+							<i class="fa fa-soundcloud fa-3x"></i>
 						</div>
 						<h3>Quais as suas necessidades em TI?</h3>
 						<p> <b>Sistema corporativo? E-commerce? Serviços web? Ou um simples site?</b><br>
@@ -298,13 +297,14 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 					data-wow-delay="0.3s">
 					<div class="service-item">
 						<div class="service-icon">
-							<i class="fa fa-wifi fa-3x"></i>
+							<i class="fa fa-audio-description fa-3x"></i>
 						</div>
-						<h3>Talvez em redes de computadores...</h3>
-						<p> 
-						<b>Montagem ou manutenção de uma rede? Servidores?</b><br>
-						Atuamos com montagem e configuração de redes de
-							computadores.</p>
+						<h3>E como anda o marketing da sua empresa?</h3>
+						<p> Gostou do nosso site?
+						E das nossas <a href="#social">redes sociais</a>?
+						Sabe, somos facilmente encontrados nos sites de busca...<br>
+						Queremos te deixar bem vistos na internet, <a href="#contact">contate-nos</a>.
+						</p>
 					</div>
 				</div>
 
@@ -315,11 +315,11 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 						<div class="service-icon">
 							<i class="fa fa-wifi fa-3x"></i>
 						</div>
-						<h3>Redes de Computadores</h3>
-						<p>Atuamos com montagem e configuração de redes de
-							computadores, principalmente com (i) Cabeamento Estruturado, (ii)
-							Montagem e Configuração de Servidores e (iii) Gerenciamento de
-							Rede.</p>
+						<h3>Talvez em redes de computadores...</h3>
+						<p> 
+						<b>Montagem ou manutenção de uma rede? Servidores?</b><br>
+						Atuamos com montagem e configuração de redes de
+							computadores.</p>
 					</div>
 				</div>
 
