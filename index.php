@@ -147,8 +147,8 @@
 						<div class="caption-content">
 							<h2 class="animated fadeInDown">autenticidade</h2>
 							<span class="animated fadeInDown">Conhece alguma outra
-								empresa de TI com esse estilo?</span> <a href="#contact"
-								class="btn btn-blue btn-effect">Contate-nos</a>
+								empresa de TI com esse estilo?</span> <a href="#service"
+								class="btn btn-blue btn-effect">Nossos Serviços</a>
 						</div>
 					</div>
 
