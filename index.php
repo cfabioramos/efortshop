@@ -161,10 +161,10 @@
 					<div class="bg-img bg-img-2"></div>
 					<div class="slide-caption">
 						<div class="caption-content">
-							<h2>Sustentabilidade</h2>
-							<span>Na nossa luta para melhorar o meio ambiente, <br>
-							passamos a dar tratamento a todo o lixo eletrônico que geramos ou recebemos.</span> 
-								<a href="#contact" class="btn btn-blue btn-effect">Contate-nos</a>
+							<h2>Consultoria e Vendas</h2>
+							<span>Da união de um grupo competente e disciplinado surgiu uma grande capacidade de <br>
+							atuar com excelência nas áreas de consultoria de TI e vendas de equipamentos de informática. 
+							<br><br> O resultado? <br><br> Preço e qualidade</span>
 						</div>
 					</div>
 
@@ -177,10 +177,10 @@
 					<div class="bg-img bg-img-3"></div>
 					<div class="slide-caption">
 						<div class="caption-content">
-							<h2>Trabalho com comprometimento em união</h2>
-							<span>Nossa força vem da nossa capacidade de perceber e
-								trabalhar com os anseios de todos.</span> <a href="#contact"
-								class="btn btn-blue btn-effect">Contate-nos</a>
+							<h2>Sustentabilidade</h2>
+							<span>Na nossa luta para melhorar o meio ambiente, <br>
+							passamos a dar tratamento a todo o lixo eletrônico que geramos ou recebemos.</span> 
+								<a href="#contact" class="btn btn-blue btn-effect">Contate-nos</a>
 						</div>
 					</div>
 
