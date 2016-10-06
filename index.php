@@ -352,7 +352,7 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 				<div class="sec-title text-center wow animated fadeInDown">
 					<h2>VENDAS</h2>
 					<p>
-					Com a venda de equipamentos de informática, nos tornamos uma empresa que tem uma maior capacidade 
+					Com a venda de equipamentos de informática, nos tornamos uma empresa com maior capacidade 
 					<br>em atender a suas necessidades na área de TI. </p>
 				</div>
 
@@ -390,7 +390,7 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 							<li><a class="fancybox" title="Informática"
 								href="img/slider/banner.jpg" data-fancybox-group="works"><i
 									class="fa fa-search"></i></a></li>
-							<li><a href=""><i class="fa fa-link"></i></a></li>
+							<!--li><a href=""><i class="fa fa-link"></i></a></li-->
 						</ul></li>
 
 					<li class="portfolio-item"><img src="img/portfolio/item3.jpg"
@@ -401,8 +401,7 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 							">
 						<figcaption class="mask">
 							<h3>Preços especiais para PJ</h3>
-							<p>Estabelecendo parcerias, conseguimos nos tornar
-								competitivos em vendas de materias de escritório.</p>
+							<p><a href="#contact">Contate-nos</a> e confira as condições especiais para a sua empresa.</p>
 						</figcaption>
 						<ul class="external">
 							<li><a class="fancybox" title="Materiais de Escritório"
