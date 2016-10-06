@@ -284,12 +284,12 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 					class="col-md-3 col-sm-6 col-xs-12 text-center wow animated zoomIn">
 					<div class="service-item">
 						<div class="service-icon">
-							<i class="fa fa-wrench fa-3x"></i>
+							<i class="fa fa-file-code-o fa-3x"></i>
 						</div>
-						<h3>Suporte</h3>
-						<p>Em nossa loja, localizada no bairro de Brotas, conseguimos
-							atender aos nossos clientes realizando manutenções preventivas e
-							corretivas em seus computadores, notebooks, tablets e celulares.</p>
+						<h3>Quais as suas necessidades em TI?</h3>
+						<p> <b>Sistema corporativo? E-commerce? Serviços web? Ou um simples site?</b><br>
+						Seja qual for a sua necessidade em termos de tecnologia,
+						somos uma equipe com bastante experiencia na área pronta para te atender.</p>
 					</div>
 				</div>
 
@@ -298,11 +298,13 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 					data-wow-delay="0.3s">
 					<div class="service-item">
 						<div class="service-icon">
-							<i class="fa fa-file-code-o fa-3x"></i>
+							<i class="fa fa-wifi fa-3x"></i>
 						</div>
-						<h3>Desenvolvimento de Sites e Sistemas</h3>
-						<p>Somos especialistas em desenvolvimento de sites, 
-						e-commerce e sistemas de grande porte.</p>
+						<h3>Talvez em redes de computadores...</h3>
+						<p> 
+						<b>Montagem ou manutenção de uma rede? Servidores?</b><br>
+						Atuamos com montagem e configuração de redes de
+							computadores.</p>
 					</div>
 				</div>
 
