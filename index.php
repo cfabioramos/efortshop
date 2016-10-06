@@ -351,40 +351,39 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 
 				<div class="sec-title text-center wow animated fadeInDown">
 					<h2>VENDAS</h2>
-					<p>Em nosso estoque conseguimos concentrar uma grande variedade de
-						equipamentos de informática e materiais de escritório.</p>
+					<p>
+					Com a venda de equipamentos de informática, nos tornamos uma empresa que tem uma maior capacidade 
+					<br>em atender a suas necessidades na área de TI. </p>
 				</div>
 
 
 				<ul class="project-wrapper wow animated fadeInUp">
 					<li class="portfolio-item"><img src="img/portfolio/item.jpg"
 						class="img-responsive"
-						alt="Em nossa loja, localizada no bairro de Brotas, conseguimos oferecer o que há de mais avançado em termos de tecnologia com um preço diferenciado. E fazemos a entrega em domicílio.
-						">
+						alt="Em nossa loja, localizada no bairro de Brotas, conseguimos oferecer o que há de mais avançado em termos de tecnologia com um preço diferenciado. E em Salvador fazemos a entrega em domicílio.">
 						<figcaption class="mask">
-							<h3>Nossa Loja</h3>
+							<h3>Nosso Estoque</h3>
 							<p>
-								Em nossa loja oferecemos um ambiente agradável para te atender
-								nas suas necessidades. <a href="#contact">Veja a localização</a>
+								No nosso estoque concentramos uma grande variedade de
+								equipamentos de informática. Confira o
+									nosso <a href="docs/catalogo_informatica.xlsx" 
+									target="#">catálogo</a>.
 							</p>
 						</figcaption>
 						<ul class="external">
 							<li><a class="fancybox" title="Nossa Loja"
 								data-fancybox-group="works" href="img/portfolio/item.jpg"><i
 									class="fa fa-search"></i></a></li>
-							<li><a href=""><i class="fa fa-link"></i></a></li>
+							</a></li>
 						</ul></li>
 
 					<li class="portfolio-item"><img src="img/portfolio/item2.jpg"
 						class="img-responsive"
-						alt="Informática é o nosso carro chefe. Nesta área, estamos sempre nos esforçando para ter os produtos mais avançados com os melhores preços do mercado.">
+						alt="dar mais informacoes sobre o produto... ???">
 						<figcaption class="mask">
-							<h3>Informática</h3>
+							<h3>Destaque da semana</h3>
 							<p>
-								No nosso estoque concentramos uma grande variedade de
-								equipamentos de informática. <a
-									href="docs/catalogo_informatica.xlsx" target="#">Confira o
-									nosso catálogo.</a>
+								Confira o nosso produto destaque da semana.
 							</p>
 						</figcaption>
 						<ul class="external">
@@ -401,7 +400,7 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 							são as que conseguem se manter firmes e ultrapassar bem os obstáculos.
 							">
 						<figcaption class="mask">
-							<h3>Materiais de Escritório</h3>
+							<h3>Preços especiais para PJ</h3>
 							<p>Estabelecendo parcerias, conseguimos nos tornar
 								competitivos em vendas de materias de escritório.</p>
 						</figcaption>
@@ -411,55 +410,6 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 									class="fa fa-search"></i></a></li>
 							<li><a href=""><i class="fa fa-link"></i></a></li>
 						</ul></li>
-
-					<li class="portfolio-item"><img src="img/portfolio/item4.jpg"
-						class="img-responsive"
-						alt="Englobando a venda de materiais de escritório, conseguimos suprir as necessidades
-							das empresas em um conjunto mais amplo de necessidades, fazendo do preço
-							um diferencial.">
-						<figcaption class="mask">
-							<h3>Venda Casada</h3>
-							<p>Com a venda casada, englobando materiais de escritório e
-								informática, conseguimos atingir preços imbatíveis.</p>
-						</figcaption>
-						<ul class="external">
-							<li><a class="fancybox" title="Venda Casada"
-								data-fancybox-group="works" href="img/portfolio/item4.jpg"><i
-									class="fa fa-search"></i></a></li>
-							<li><a href=""><i class="fa fa-link"></i></a></li>
-						</ul></li>
-
-					<li class="portfolio-item"><img src="img/portfolio/item5.jpg"
-						class="img-responsive"
-						alt="De PC Gamers a Video Games, estamos preparados para atender as suas necessidades.">
-						<figcaption class="mask">
-							<h3>Games</h3>
-							<p>Gosta de jogar? <a href="#contact">Contate-nos</a> e escolha a configuração preferida do seu PC Gamer.</p>
-						</figcaption>
-						<ul class="external">
-							<li><a class="fancybox"
-								title="Games"
-								data-fancybox-group="works" href="img/portfolio/item5.jpg"><i
-									class="fa fa-search"></i></a></li>
-							<li><a href=""><i class="fa fa-link"></i></a></li>
-						</ul></li>
-
-					<li class="portfolio-item"><img src="img/portfolio/item6.jpg"
-						class="img-responsive"
-						alt="Estabilizadores, nobreaks, filtros de linha, transformadores, adaptadores e até lampadas de led.
-						Confira os preços e as marcas dos nossos produtos.">
-						<figcaption class="mask">
-							<h3>Energia</h3>
-							<p>De um simples adaptador ao mais avançado nobreak, 
-							conseguimos suprir as suas necessidades em energia.</p>
-						</figcaption>
-						<ul class="external">
-							<li><a class="fancybox" title="Energia"
-								data-fancybox-group="works" href="img/portfolio/item6.jpg"><i
-									class="fa fa-search"></i></a></li>
-							<li><a href=""><i class="fa fa-link"></i></a></li>
-						</ul></li>
-				</ul>
 
 			</div>
 		</div>
