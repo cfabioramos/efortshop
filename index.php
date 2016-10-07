@@ -281,18 +281,20 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 					de trabalhar com verdade. <br> Como podemos te ajudar?</p>
 				</div>
 
-				<div
-					class="col-md-3 col-sm-6 col-xs-12 text-center wow animated zoomIn">
-					<div class="service-item">
-						<div class="service-icon">
-							<i class="fa fa-soundcloud fa-3x"></i>
+				<a href="#openModalServices_web">
+					<div
+						class="col-md-3 col-sm-6 col-xs-12 text-center wow animated zoomIn">
+						<div class="service-item">
+							<div class="service-icon">
+								<i class="fa fa-soundcloud fa-3x"></i>
+							</div>
+							<h3>Sua necessidade é na Web?</h3>
+							<p> <b>Sistema corporativo? E-commerce? Serviço Web? Ou um simples site?</b><br>
+							Seja qual for a sua necessidade na web,
+							somos uma equipe com bastante experiencia na área pronta para te atender.</p>
 						</div>
-						<h3>Quais as suas necessidades em TI?</h3>
-						<p> <b>Sistema corporativo? E-commerce? Serviços web? Ou um simples site?</b><br>
-						Seja qual for a sua necessidade em termos de tecnologia,
-						somos uma equipe com bastante experiencia na área pronta para te atender.</p>
 					</div>
-				</div>
+				</a>
 
 				<div
 					class="col-md-3 col-sm-6 col-xs-12 text-center wow animated zoomIn"
@@ -655,7 +657,7 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 		</div>
 	</footer>
 
-  <!-- Modal -->
+  <!-- Modal NewsLetter-->
   <div class="modal fade" id="myModal" role="dialog">
     <div class="modal-dialog">
       <!-- Modal content-->
@@ -673,6 +675,59 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
       </div>
     </div>
   </div>
+
+    <!-- Modal NewsLetter-->
+  <div class="modal fade" id="modalServicos1" role="dialog">
+    <div class="modal-dialog">
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">
+          	<img alt="EfortShop"
+						src="img/EforteShop.com.br_LOGO.png"
+						style="width: 60px; height: 20px;"></img><br>
+				Mensagem Enviada
+			</h4>
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<div id="openModalServices_web" class="modalWindow">
+	<div>
+		<div class="modalHeader">
+			<h2>Seu negócio na Web</h2>
+			<a href="#close" title="Close" class="close">X</a>
+		</div>
+		
+		<div class="modalContent">
+		<br>
+		<p>
+			Se você já percebeu que a primeira impressão de boa parde dos
+			seus clientes vem da apresentação do seu negócio na web e está preocupado
+			em apresenta-lo bem, tanto em desktops quanto
+			dispositivos móveis, conte conosco. Queremos te entregar 
+			um site bem feito, leve, com design responsivo... Conte conosco.
+		</p><br>
+		<p>
+			Mas, se você quer potencializar as suas vendas, 
+			disponibilizando um bom e-commerce para os seus clientes,
+			conseguimos sugerir uma solução que, com certeza, irá atender
+			às suas necessidades.
+		</p><br>
+		<p>
+
+			Por outro lado, se a sua necessidade é desenvolver sistemas corporativos? <br>
+			Já sabe se em Java, Php, Python, Ruby... ou prefere que a gente faça essa análise para você?
+		</p>
+
+			<!--p>This is a sample modal window that can be created using CSS3 and HTML5.</p>
+			<p>Modal windows are used, among many others, to display login/register forms; advertisements; or just notifications to the user. They frequently contain critical information, that user must attend in order to return to the page.</p-->
+		</div>
+	</div>
+</div>
 
 	<!-- Essential jQuery Plugins
 		================================================== -->
