@@ -203,7 +203,7 @@ main > section {
 .modalWindow {
         position: fixed;
         font-family: arial;
-        font-size:80%;
+        font-size:85%;
         top: 0;
         right: 0;
         bottom: 0;
@@ -222,7 +222,7 @@ main > section {
         pointer-events: auto;
     }
     .modalWindow > div {
-        width: 500px;
+        width: 60%;
         position: relative;
         margin: 10% auto;
         -webkit-border-radius: 5px;
