@@ -278,7 +278,7 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 					<h2 class="wow animated bounceInLeft">Serviços</h2>
 					<p class="wow animated bounceInRight">A qualidade dos serviços que realizamos
 					vem da capacidade de uma equipe comprometida, <br> unida com o proposito 
-					de trabalhar com verdade. <br> Como podemos te ajudar?</p>
+					de trabalhar com verdade. <br><br> <b>Como podemos te ajudar?</b></p>
 				</div>
 
 				<a href="#openModalServices_web">
@@ -301,13 +301,15 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 					data-wow-delay="0.3s">
 					<div class="service-item">
 						<div class="service-icon">
-							<i class="fa fa-audio-description fa-3x"></i>
+							<i class="fa fa-mobile fa-3x"></i>
 						</div>
-						<h3>E como anda o marketing da sua empresa?</h3>
-						<p> Gostou do nosso site?
-						E das nossas <a href="#social">redes sociais</a>?
-						Sabe, somos facilmente encontrados nos sites de busca...<br>
-						Queremos te deixar bem visto na internet, <a href="#contact">contate-nos</a>.
+						<h3>Ou aplicativo desktop ou mobile?</h3>
+						<p>Sempre que desenvolvemos um aplicativo web 
+						temos a procupação em adequa-lo para uma boa exibição em dispositivos móveis. 
+						Contudo, muitas vezes, a usabilidade e a performance exigem
+						a disponibilização de um aplicativo nativo. Sendo este o seu caso,
+						temos expertize no desenvolvimento de aplicativos para os 
+						SOs Android e iOS.
 						</p>
 					</div>
 				</div>
@@ -317,13 +319,14 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 					data-wow-delay="0.6s">
 					<div class="service-item">
 						<div class="service-icon">
-							<i class="fa fa-wifi fa-3x"></i>
+							<i class="fa fa-audio-description fa-3x"></i>
 						</div>
-						<h3>Talvez em redes de computadores...</h3>
-						<p> 
-						<b>Infraestrutura ou manutenção de uma rede? Servidores?</b><br>
-						Também atuamos com montagem, configuração e manutenção 
-						de redes de computadores.</p>
+						<h3>Precisando de apoio na estratégia de marketing na web do seu negócio?</h3>
+						<p> Confira o nosso site e as nossas <a href="#social">redes sociais</a>?
+						São bons exemplos do que você espera em qualidade?
+						Sabe, também somos facilmente encontrados nos sites de busca...<br>
+						Quer saber como? <a href="#contact">Contate-nos</a>.
+						</p>
 					</div>
 				</div>
 
@@ -704,26 +707,24 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 		
 		<div class="modalContent">
 		<br>
-		<p>
-			Se você já percebeu que a primeira impressão de boa parde dos
+		<p>Se você já percebeu que a primeira impressão de boa parde dos
 			seus clientes vem da apresentação do seu negócio na web e está preocupado
 			em apresenta-lo bem tanto em desktops quanto
 			dispositivos móveis, conte conosco. Queremos te entregar 
 			um site bem feito, leve, com design responsivo...
 		</p><br>
-		<p>
-			Mas, se você quer potencializar as suas vendas, 
+		<p>Mas, se você quer potencializar as suas vendas, 
 			disponibilizando um bom e-commerce para os seus clientes,
 			conseguimos sugerir uma solução que, com certeza, irá atender
 			às suas necessidades.
 		</p><br>
-		<p>
-			Ou a sua necessidade é desenvolver sistemas corporativos? <br>
-			Já sabe se em Java, Php, Python, Ruby... ou prefere que a gente faça essa análise para você?
-		</p>
+		<p>Ou a sua necessidade é desenvolver sistemas corporativos? <br>
+			Já decidiu sobre a linguagem de programação? Em Java, Php, Python, Ruby..?
+			E o banco de dados? Oracle, SQL Server, DB2, PostgreSQL, MySQL ou está 
+			com foco em escalabilidade e prefere usar outro paradigma, como o No-Sql?
+			<br>Se preferir, podemos te ajudar a fazer esta análise.
+		</p><br>
 
-			<!--p>This is a sample modal window that can be created using CSS3 and HTML5.</p>
-			<p>Modal windows are used, among many others, to display login/register forms; advertisements; or just notifications to the user. They frequently contain critical information, that user must attend in order to return to the page.</p-->
 		</div>
 	</div>
 </div>
