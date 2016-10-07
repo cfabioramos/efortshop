@@ -707,9 +707,9 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 		<p>
 			Se você já percebeu que a primeira impressão de boa parde dos
 			seus clientes vem da apresentação do seu negócio na web e está preocupado
-			em apresenta-lo bem, tanto em desktops quanto
+			em apresenta-lo bem tanto em desktops quanto
 			dispositivos móveis, conte conosco. Queremos te entregar 
-			um site bem feito, leve, com design responsivo... Conte conosco.
+			um site bem feito, leve, com design responsivo...
 		</p><br>
 		<p>
 			Mas, se você quer potencializar as suas vendas, 
@@ -718,8 +718,7 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 			às suas necessidades.
 		</p><br>
 		<p>
-
-			Por outro lado, se a sua necessidade é desenvolver sistemas corporativos? <br>
+			Ou a sua necessidade é desenvolver sistemas corporativos? <br>
 			Já sabe se em Java, Php, Python, Ruby... ou prefere que a gente faça essa análise para você?
 		</p>
 
