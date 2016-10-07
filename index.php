@@ -383,7 +383,7 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 
 					<li class="portfolio-item"><img src="img/portfolio/item2.jpg"
 						class="img-responsive"
-						alt="dar mais informacoes sobre o produto... ???">
+						alt="Transmita seu entretenimento preferido do smartphone diretamente para sua TV. Ligue Agora Mesmo E Compre Logo O Seu! (71) 3037-4006">
 						<figcaption class="mask">
 							<h3>Destaque da semana</h3>
 							<p>
@@ -391,8 +391,8 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 							</p>
 						</figcaption>
 						<ul class="external">
-							<li><a class="fancybox" title="Informática"
-								href="img/slider/banner.jpg" data-fancybox-group="works"><i
+							<li><a class="fancybox" title=" Google Chromecast 2"
+								href="img/portfolio/item2.jpg" data-fancybox-group="works"><i
 									class="fa fa-search"></i></a></li>
 							<!--li><a href=""><i class="fa fa-link"></i></a></li-->
 						</ul></li>
