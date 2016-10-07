@@ -65,7 +65,7 @@
 		</div>
 		<div class="input-field">
 			<textarea id="message" name="message" class="form-control" required="true"
-				maxlength="300" placeholder="Mensagem..."></textarea>
+				maxlength="300" placeholder="Mensagem..." style="resize:none;height:150px;width:100%"></textarea>
 		</div>
 		<button type="submit" id="submit" class="btn btn-blue btn-effect">Enviar</button>
 	</form>

@@ -276,7 +276,9 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 
 				<div class="sec-title text-center">
 					<h2 class="wow animated bounceInLeft">Serviços</h2>
-					<p class="wow animated bounceInRight">Nossas Especialidades</p>
+					<p class="wow animated bounceInRight">A qualidade dos serviços que realizamos
+					vem da capacidade de uma equipe comprometida, <br> unida com o proposito 
+					de trabalhar com verdade. <br> Como podemos te ajudar?</p>
 				</div>
 
 				<div
@@ -353,7 +355,7 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 					<h2>VENDAS</h2>
 					<p>
 					Com a venda de equipamentos de informática, nos tornamos uma empresa com maior capacidade 
-					<br>em atender a suas necessidades na área de TI. </p>
+					<br>em atender às suas necessidades em TI. </p>
 				</div>
 
 
