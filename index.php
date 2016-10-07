@@ -414,7 +414,6 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 							<li><a class="fancybox" title="Materiais de Escritório"
 								data-fancybox-group="works" href="img/portfolio/item3.jpg"><i
 									class="fa fa-search"></i></a></li>
-							<li><a href=""><i class="fa fa-link"></i></a></li>
 						</ul></li>
 
 			</div>
