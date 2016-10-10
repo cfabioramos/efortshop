@@ -362,7 +362,7 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 
 
 				<ul class="project-wrapper wow animated fadeInUp">
-					<li class="portfolio-item"><img src="img/portfolio/item.jpg"
+					<li class="portfolio-item"><img src="img/sale/estoque_equipamentos_informatica.jpg"
 						class="img-responsive"
 						alt="Em nossa loja, localizada no bairro de Brotas, conseguimos oferecer o que há de mais avançado em termos de tecnologia com um preço diferenciado. E em Salvador fazemos a entrega em domicílio.">
 						<figcaption class="mask">
@@ -376,12 +376,12 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 						</figcaption>
 						<ul class="external">
 							<li><a class="fancybox" title="Nossa Loja"
-								data-fancybox-group="works" href="img/portfolio/item.jpg"><i
+								data-fancybox-group="works" href="img/sale/estoque_equipamentos_informatica.jpg"><i
 									class="fa fa-search"></i></a></li>
 							</a></li>
 						</ul></li>
 
-					<li class="portfolio-item"><img src="img/portfolio/item2.jpg"
+					<li class="portfolio-item"><img src="img/sale/google_chromecast.jpg"
 						class="img-responsive"
 						alt="Transmita seu entretenimento preferido do smartphone diretamente para sua TV">
 						<figcaption class="mask">
@@ -392,12 +392,12 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 						</figcaption>
 						<ul class="external">
 							<li><a class="fancybox" title=" Google Chromecast 2"
-								href="img/portfolio/item2.jpg" data-fancybox-group="works"><i
+								href="img/sale/google_chromecast.jpg" data-fancybox-group="works"><i
 									class="fa fa-search"></i></a></li>
 							<!--li><a href=""><i class="fa fa-link"></i></a></li-->
 						</ul></li>
 
-					<li class="portfolio-item"><img src="img/portfolio/item3.jpg"
+					<li class="portfolio-item"><img src="img/sale/desconto_para_empresas_informatica.jpg"
 						class="img-responsive"
 						alt="Em tempos difíceis, as empresas que tem bons relacionamentos e conseguem 
 							atender aos seus clientes em um escopo maior de necessidades,
@@ -405,11 +405,11 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 							">
 						<figcaption class="mask">
 							<h3>Preços especiais para PJ</h3>
-							<p><a href="#contact">Contate-nos</a> e confira as condições especiais para a sua empresa.</p>
+							<p><a href="#contact">Contate-nos</a> e confira as condições e preços diferenciados para empresas.</p>
 						</figcaption>
 						<ul class="external">
 							<li><a class="fancybox" title="Materiais de Escritório"
-								data-fancybox-group="works" href="img/portfolio/item3.jpg"><i
+								data-fancybox-group="works" href="img/sale/desconto_para_empresas_informatica.jpg"><i
 									class="fa fa-search"></i></a></li>
 						</ul></li>
 
