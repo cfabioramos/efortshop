@@ -386,7 +386,7 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 
 					<li class="portfolio-item"><img src="img/portfolio/item2.jpg"
 						class="img-responsive"
-						alt="Transmita seu entretenimento preferido do smartphone diretamente para sua TV. Ligue Agora Mesmo E Compre Logo O Seu! (71) 3037-4006">
+						alt="Transmita seu entretenimento preferido do smartphone diretamente para sua TV">
 						<figcaption class="mask">
 							<h3>Destaque da semana</h3>
 							<p>
