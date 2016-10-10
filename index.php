@@ -706,18 +706,19 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 		
 		<div class="modalContent">
 		<br>
-		<p>Se você já percebeu que a primeira impressão de boa parde dos
+		<img src="">
+		<p style="font-size: 15px;">Se você já percebeu que a primeira impressão de boa parde dos
 			seus clientes vem da apresentação do seu negócio na web e está preocupado
 			em apresenta-lo bem tanto em desktops quanto
 			dispositivos móveis, conte conosco. Queremos te entregar 
 			um site bem feito, leve, com design responsivo...
 		</p><br>
-		<p>Mas, se você quer potencializar as suas vendas, 
+		<p style="font-size: 15px;">Mas, se você quer potencializar as suas vendas, 
 			disponibilizando um bom e-commerce para os seus clientes,
 			conseguimos sugerir uma solução que, com certeza, irá atender
 			às suas necessidades.
 		</p><br>
-		<p>Ou a sua necessidade é desenvolver sistemas corporativos? <br>
+		<p style="font-size: 15px;">Ou a sua necessidade é desenvolver sistemas corporativos? <br>
 			Já decidiu sobre a linguagem de programação? Em Java, Php, Python, Ruby..?
 			E o banco de dados? Oracle, SQL Server, DB2, PostgreSQL, MySQL ou está 
 			com foco em escalabilidade e prefere usar outro paradigma, como o No-Sql?
