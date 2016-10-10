@@ -102,9 +102,7 @@
 
 				<!-- logo -->
 				<h1 class="navbar-brand">
-					<a href="#body"> <!--img alt="EfortShop"
-						src="img/EforteShop.com.br_LOGO.png"
-						style="width: 180px; height: 60px;"></img --> efortshop
+					<a href="#body">efortshop
 					</a>
 				</h1>
 				<!-- /logo -->
@@ -114,7 +112,6 @@
 			<nav class="collapse navbar-collapse navbar-right" role="navigation">
 				<ul id="nav" class="nav navbar-nav">
 					<li><a href="#body">Início</a></li>
-					<!-- li><a href="#price">Vendas</a></li> -->
 					<li><a href="#service">Serviços</a></li>
 					<li><a href="#sale">Vendas</a></li>
 					<li><a href="#testimonials">Depoimentos</a></li>
@@ -163,7 +160,7 @@
 						<div class="caption-content">
 							<h2>Consultoria e Vendas</h2>
 							<span>Da união de um grupo competente e disciplinado surgiu uma grande capacidade de <br>
-							atuar com excelência nas áreas de consultoria de TI e vendas de equipamentos de informática. 
+							atuar com excelência nas áreas de desenvolvimento de software e vendas de equipamentos de informática. 
 							<br><br> O resultado? <br><br> Preço e qualidade</span>
 						</div>
 					</div>
