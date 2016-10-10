@@ -307,7 +307,7 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 						<p>Sempre que desenvolvemos um aplicativo web 
 						temos a procupação em adequa-lo para uma boa exibição em dispositivos móveis. 
 						Contudo, muitas vezes, a usabilidade e a performance exigem
-						a disponibilização de um aplicativo nativo. Sendo este o seu caso,
+						a criação de um aplicativo nativo. Sendo este o seu caso,
 						temos expertize no desenvolvimento de aplicativos para os 
 						SOs Android e iOS.
 						</p>
@@ -325,7 +325,7 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 						<p> Confira o nosso site e as nossas <a href="#social">redes sociais</a>?
 						São bons exemplos do que você espera em qualidade?
 						Sabe, também somos facilmente encontrados nos sites de busca...<br>
-						Quer saber como? <a href="#contact">Contate-nos</a>.
+						E queremos dar a mesma qualidade ao seu negócio. <a href="#contact">Contate-nos</a>.
 						</p>
 					</div>
 				</div>
@@ -455,15 +455,14 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 							</div>
 						</div>
 						<div class="testimonial-item text-center">
-							<img src="img/member-1.jpg" alt="Our Clients">
+							<img src="img/testimonials/priscila.jpg" alt="Nossos clientes">
 							<div class="clearfix">
-								<span>Katty Flower</span>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-									sed do eiusmod tempor incididunt ut labore et dolore magna
-									aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-									ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-									aute irure dolor in reprehenderit in voluptate velit esse
-									cillum dolore eu fugiat nulla pariatur.</p>
+								<span>Priscila Carvalho</span>
+								<p>Empresa séria que utiliza a tecnologia da informação
+								a favor da satisfação do cliente, sempre mantendo a qualidade
+								dos serviços. Sendo assim, é válido contratar os serviços
+								dessa empresa, que, com competência e transparência
+								executam os trabalhos com qualidade.</p>
 							</div>
 						</div>
 					</div>
@@ -699,30 +698,38 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 
 <div id="openModalServices_web" class="modalWindow">
 	<div>
-		<div class="modalHeader">
-			<h2>Seu negócio na Web</h2>
+		<div class="modalHeader text-center">
+			<h2>SEU NEGÓCIO NA WEB</h2>
 			<a href="#close" title="Close" class="close">X</a>
 		</div>
 		
 		<div class="modalContent">
 		<br>
-		<img src="">
-		<p style="font-size: 15px;">Se você já percebeu que a primeira impressão de boa parde dos
-			seus clientes vem da apresentação do seu negócio na web e está preocupado
-			em apresenta-lo bem tanto em desktops quanto
-			dispositivos móveis, conte conosco. Queremos te entregar 
-			um site bem feito, leve, com design responsivo...
+		<p>Conte conosco se você já percebeu que a primeira impressão de boa parde dos
+			seus clientes sobre o seu negócio vem da apresentação deste 
+			na web e está preocupado em apresenta-lo bem, tanto em desktops quanto
+			dispositivos móveis. Iremos apresentar o seu negócio em
+			um site com um belo design, leve e adaptado para dispositivos móveis.
 		</p><br>
-		<p style="font-size: 15px;">Mas, se você quer potencializar as suas vendas, 
+		<p>Mas, se você quer potencializar as suas vendas, 
 			disponibilizando um bom e-commerce para os seus clientes,
 			conseguimos sugerir uma solução que, com certeza, irá atender
 			às suas necessidades.
 		</p><br>
-		<p style="font-size: 15px;">Ou a sua necessidade é desenvolver sistemas corporativos? <br>
-			Já decidiu sobre a linguagem de programação? Em Java, Php, Python, Ruby..?
+		<p>Ou a sua necessidade é desenvolver sistemas corporativos? <br>
+			Já decidiu a linguagem de programação? Em Java, Php, Python, Ruby..?
 			E o banco de dados? Oracle, SQL Server, DB2, PostgreSQL, MySQL ou está 
 			com foco em escalabilidade e prefere usar outro paradigma, como o No-Sql?
-			<br>Se preferir, podemos te ajudar a fazer esta análise.
+			<br>Se preferir, podemos te ajudar a fazer estas análises.
+		</p><br>
+		<p>O NOSSO DIFERENCIAL <br>
+			O nosso diferencial está no modelo de gerenciamento que 
+			adotamos para os nossos projetos, baseado no modelo definido
+			pelo PMI e um vislumbre para adequação ao 
+			<a href="http://www.dragondreamingbr.org/portal/" target="#"> Dragon Dreaming </a>.
+			<br>Mas o que isso significa?<br>
+			Signigica que nos preocupamos em adotar para os nossos projetos um sistema integrado e um 
+			método completo para a realização de projetos criativos, colaborativos e sustentáveis.
 		</p><br>
 
 		</div>
