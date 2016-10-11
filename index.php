@@ -744,8 +744,10 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 	<!-- jquery.fancybox.pack -->
 	<script src="js/jquery.fancybox.pack.js"></script>
 	<!-- Google Map API -->
-	<script src="http://maps.google.com/maps/api/js?sensor=false"></script>
-	<!--script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyAak-zws68dKTBRXfCKQ8eBI2RU38FO1cc"></script-->
+	<!--script src="http://maps.google.com/maps/api/js?sensor=false"></script-->
+	<!--script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyADpCv8MmBLpBtvoyrBzVikvhWvwZdmFtI"></script-->
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyADpCv8MmBLpBtvoyrBzVikvhWvwZdmFtI&callback=initMap"
+    async defer></script>
 	<!-- Owl Carousel -->
 	<script src="js/owl.carousel.min.js"></script>
 	<!-- jquery easing -->
