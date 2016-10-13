@@ -402,13 +402,15 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 						alt="Em tempos difíceis, as empresas que tem bons relacionamentos e conseguem 
 							atender aos seus clientes em um escopo maior de necessidades,
 							são as que conseguem se manter firmes e ultrapassar bem os obstáculos.
+							Entre em contato com os nossos consultores de venda e analise as 
+							condições e preços que podemos oferecer em nossas mercadorias.
 							">
 						<figcaption class="mask">
 							<h3>Preços especiais para PJ</h3>
 							<p><a href="#contact">Contate-nos</a> e confira as condições e preços diferenciados para empresas.</p>
 						</figcaption>
 						<ul class="external">
-							<li><a class="fancybox" title="Materiais de Escritório"
+							<li><a class="fancybox" title="Preços e Condições Especiais para Pessoa Jurídica"
 								data-fancybox-group="works" href="img/sale/desconto_para_empresas_informatica.jpg"><i
 									class="fa fa-search"></i></a></li>
 						</ul></li>

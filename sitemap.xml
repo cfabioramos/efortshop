@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+ <!--xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"-->
+ 
+	<url>
+    <loc>http://www.efortshop.com.br/</loc> 
+	<lastmod>2016-10-12</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.0</priority>
+
+	<image:image>
+       <image:loc>http://efortshop.com.br/logo.png</image:loc>
+       <image:caption>Logomarca EfortShop</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>http://efortshop.com.br/parallax/testimonial.jpg</image:loc>
+       <image:caption>Depoimentos EfortShop (empresa de tecnologia da informação)</image:caption>
+    </image:image>
+	<image:image>
+       <image:loc>http://efortshop.com.br/sale/desconto_para_empresas_informatica.jpg</image:loc>
+       <image:caption>Desconto em equipamentos de informática para empresas</image:caption>
+    </image:image>
+	<image:image>
+       <image:loc>http://efortshop.com.br/sale/estoque_equipamentos_informatica.jpg</image:loc>
+       <image:caption>Estoque de equipamentos de informática</image:caption>
+    </image:image>
+	<image:image>
+       <image:loc>http://efortshop.com.br/sale/google_chromecast.jpg</image:loc>
+       <image:caption>Google ChromeCast com desconto</image:caption>
+    </image:image>
+	<image:image>
+       <image:loc>http://efortshop.com.br/slider/desenvolvimento_software_vendas_informatica.jpeg</image:loc>
+       <image:caption>Desenvolvimento de software e venda de equipamentos de informática</image:caption>
+    </image:image>
+	<image:image>
+       <image:loc>http://efortshop.com.br/slider/empresa_informatica_com_autenticidade.jpg</image:loc>
+       <image:caption>Empresa de informática com autenticidade</image:caption>
+    </image:image>
+	<image:image>
+       <image:loc>http://efortshop.com.br/slider/empresa_informatica_sustentavel_sustentabilidade.jpeg</image:loc>
+       <image:caption>Tratamento de lixo eletrônico</image:caption>
+    </image:image>
+	<image:image>
+       <image:loc>http://efortshop.com.br/social/siga-nos_empesa_ti.jpg</image:loc>
+       <image:caption>Redes sociais empresa de tecnologia da informação</image:caption>
+    </image:image>
+  </url>
+	
+  <url> 
+    <loc>http://www.efortshop.com.br/index.php</loc> 
+	<lastmod>2016-10-12</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.0</priority>
+
+	<image:image>
+       <image:loc>http://efortshop.com.br/logo.png</image:loc>
+       <image:caption>Logomarca EfortShop</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>http://efortshop.com.br/parallax/testimonial.jpg</image:loc>
+       <image:caption>Depoimentos EfortShop (empresa de tecnologia da informação)</image:caption>
+    </image:image>
+	<image:image>
+       <image:loc>http://efortshop.com.br/sale/desconto_para_empresas_informatica.jpg</image:loc>
+       <image:caption>Desconto em equipamentos de informática para empresas</image:caption>
+    </image:image>
+	<image:image>
+       <image:loc>http://efortshop.com.br/sale/estoque_equipamentos_informatica.jpg</image:loc>
+       <image:caption>Estoque de equipamentos de informática</image:caption>
+    </image:image>
+	<image:image>
+       <image:loc>http://efortshop.com.br/sale/google_chromecast.jpg</image:loc>
+       <image:caption>Google ChromeCast com desconto</image:caption>
+    </image:image>
+	<image:image>
+       <image:loc>http://efortshop.com.br/slider/desenvolvimento_software_vendas_informatica.jpeg</image:loc>
+       <image:caption>Desenvolvimento de software e venda de equipamentos de informática</image:caption>
+    </image:image>
+	<image:image>
+       <image:loc>http://efortshop.com.br/slider/empresa_informatica_com_autenticidade.jpg</image:loc>
+       <image:caption>Empresa de informática com autenticidade</image:caption>
+    </image:image>
+	<image:image>
+       <image:loc>http://efortshop.com.br/slider/empresa_informatica_sustentavel_sustentabilidade.jpeg</image:loc>
+       <image:caption>Tratamento de lixo eletrônico</image:caption>
+    </image:image>
+	<image:image>
+       <image:loc>http://efortshop.com.br/social/siga-nos_empesa_ti.jpg</image:loc>
+       <image:caption>Redes sociais empresa de tecnologia da informação</image:caption>
+    </image:image>
+    <!--video:video>
+      <video:content_loc>
+        http://www.efortshop.com/video123.flv
+      </video:content_loc>
+      <video:player_loc allow_embed="yes" autoplay="ap=1">
+        http://www.efortshop.com/videoplayer.swf?video=123
+      </video:player_loc>
+      <video:thumbnail_loc>
+        http://www.efortshop.com/thumbs/123.jpg
+      </video:thumbnail_loc>
+      <video:title>Churrasco de verão</video:title>  
+      <video:description>
+        Prepare o bife perfeito.
+      </video:description>
+    </video:video-->
+  </url>
+</urlset>
