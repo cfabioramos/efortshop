@@ -387,7 +387,7 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 						<figcaption class="mask">
 							<h3>Destaque da semana</h3>
 							<p>
-								Confira o nosso produto destaque da semana.
+								Confira os nossos produtos em destaque no momento.
 							</p>
 						</figcaption>
 						<ul class="external">
