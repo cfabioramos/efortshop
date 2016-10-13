@@ -319,7 +319,7 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 							<i class="fa fa-audio-description fa-3x"></i>
 						</div>
 						<h3>Precisando de apoio na estratégia de marketing na web do seu negócio?</h3>
-						<p> Confira o nosso site e as nossas <a href="#social">redes sociais</a>?
+						<p> Confira o nosso site e as nossas <a href="#social">redes sociais</a>.
 						São bons exemplos do que você espera em qualidade?
 						Sabe, também somos facilmente encontrados nos sites de busca...<br>
 						E queremos dar a mesma qualidade ao seu negócio. <a href="#contact">Contate-nos</a>.
@@ -703,28 +703,29 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 		</div>
 		
 		<div class="modalContent">
-		<br>
-		<p>Conte conosco se você já percebeu que a primeira impressão de boa parde dos
+		<p><b>Em relação à web, destacamos os seguintes aspectos:</b></p>
+		
+		<p>(i) Conte conosco se você já percebeu que a primeira impressão de boa parde dos
 			seus clientes sobre o seu negócio vem da apresentação deste 
 			na web e está preocupado em apresenta-lo bem, tanto em desktops quanto
 			dispositivos móveis. Iremos apresentar o seu negócio em
 			um site com um belo design, leve e adaptado para dispositivos móveis.
-		</p><br>
-		<p>Mas, se você quer potencializar as suas vendas, 
+		</p>
+		<p>(ii) Ou, se você quer potencializar as suas vendas, 
 			disponibilizando um bom e-commerce para os seus clientes,
 			conseguimos sugerir uma solução que, com certeza, irá atender
 			às suas necessidades.
-		</p><br>
-		<p>Ou a sua necessidade é desenvolver sistemas corporativos? <br>
+		</p>
+		<p>(iii) Ou a sua necessidade é desenvolver sistemas corporativos? <br>
 			Já decidiu a linguagem de programação? Em Java, Php, Python, Ruby..?
 			E o banco de dados? Oracle, SQL Server, DB2, PostgreSQL, MySQL ou está 
 			com foco em escalabilidade e prefere usar outro paradigma, como o No-Sql?
 			<br>Se preferir, podemos te ajudar a fazer estas análises.
 		</p><br>
-		<p>O NOSSO DIFERENCIAL <br>
+		<p><b>O NOSSO DIFERENCIAL</b><br>
 			O nosso diferencial está no modelo de gerenciamento que 
 			adotamos para os nossos projetos, baseado no modelo definido
-			pelo PMI e um vislumbre para adequação ao 
+			pelo <a href="http://www.pmi.org" target="#">PMI</a> e um vislumbre para adequação ao 
 			<a href="http://www.dragondreamingbr.org/portal/" target="#"> Dragon Dreaming </a>.
 			<br>Mas o que isso significa?<br>
 			Signigica que nos preocupamos em adotar para os nossos projetos um sistema integrado e um 
