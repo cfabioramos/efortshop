@@ -436,7 +436,7 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 								<p>Empresa séria que utiliza a tecnologia da informação
 								a favor da satisfação do cliente, sempre mantendo a qualidade
 								dos serviços. Sendo assim, é válido contratar os serviços
-								dessa empresa, que, com competência e transparência
+								dessa empresa, que, com competência e transparência,
 								executam os trabalhos com qualidade.</p>
 							</div>
 						</div>
@@ -458,13 +458,16 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 			</div>
 		</div>
 	</section>
-	<!-- end Testimonial section --> <!-- Price section --> <!--section id="price">
+	<!-- end Testimonial section --> <!-- Partnership section --> 
+	<!--section id="partnership">
 		<div class="container">
 			<div class="row">
 
 				<div class="sec-title text-center wow animated fadeInDown">
-					<h2>Price</h2>
-					<p>Our price for your company</p>
+					<h2>Parceria especial</h2>
+					<p>Em tempos difíceis, as empresas que conseguem estabelecer parcerias 
+					são aquelas que conseguem enfrentar as barreiras e se manter firmes.</p>
+					<p>O Basar livraria e papelaria que .</p>
 				</div>
 
 				<div class="col-md-4 wow animated fadeInUp">
@@ -517,7 +520,7 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 
 			</div>
 		</div>
-	</section --> <!-- end Price section --> <!-- Social section -->
+	</section--> <!-- end Partnership section --> <!-- Social section -->
 	<section id="social" class="parallax">
 		<div class="overlay">
 			<div class="container">
@@ -736,9 +739,10 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 	<script src="js/jquery.fancybox.pack.js"></script>
 	<!-- Google Map API -->
 	<!--script src="http://maps.google.com/maps/api/js?sensor=false"></script-->
-	<!--script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyADpCv8MmBLpBtvoyrBzVikvhWvwZdmFtI"></script-->
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyADpCv8MmBLpBtvoyrBzVikvhWvwZdmFtI&callback=initMap"
-    async defer></script>
+	<!--script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyADpCv8MmBLpBtvoyrBzVikvhWvwZdmFtI&callback=initMap" async defer></script-->
+	<script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyADpCv8MmBLpBtvoyrBzVikvhWvwZdmFtI"> </script>
+
+	
 	<!-- Owl Carousel -->
 	<script src="js/owl.carousel.min.js"></script>
 	<!-- jquery easing -->
