@@ -573,7 +573,7 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 							<i class="fa fa-phone"></i>Telefone: +55 (71) 3037-4006
 						</p>
 						<p>
-							<i class="fa fa-whatsapp"></i>Whatsapp: (71) 98780-1222
+							<i class="fa fa-whatsapp"></i>Whatsapp: (71) 99206-2036
 						</p>
 						<p>
 							<i class="fa fa-envelope"></i>Email: 
