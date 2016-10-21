@@ -175,13 +175,13 @@ $(document).ready(function(){
 /* ==========  START GOOGLE MAP ========== */
 
 // When the window has finished loading create our google map below
-google.maps.event.addDomListener(window, 'load', init);
+//google.maps.event.addDomListener(window, 'load', init);
 
-function init() {
+//function init() {
     // Basic options for a simple Google Map
     // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
 
-	    var myLatLng = new google.maps.LatLng(-12.986138, -38.478608);
+	   /* var myLatLng = new google.maps.LatLng(-12.986138, -38.478608);
 
 	    var mapOptions = {
 	        zoom: 15,
@@ -243,22 +243,31 @@ function init() {
                 visibility: 'off'
             }]
         }]
-    };
+    };*/
 
     // Get the HTML DOM element that will contain your map 
     // We are using a div with id="map" seen below in the <body>
-    var mapElement = document.getElementById('map-canvas');
+    //var mapElement = document.getElementById('map-canvas');
 
     // Create the Google Map using our element and options defined above
-    var map = new google.maps.Map(mapElement, mapOptions);
+    //var map = new google.maps.Map(mapElement, mapOptions);
+
+    /*var map = new google.maps.Map(document.getElementById('map-canvas'), {
+          center: {lat: -12.986138, lng: -38.478608},
+          // Set mapTypeId to SATELLITE in order
+          // to activate satellite imagery.
+          mapTypeId: 'satellite',
+          scrollwheel: false,
+          zoom: 15
+        });
 
     // Let's also add a marker while we're at it
     var marker = new google.maps.Marker({
         position: new google.maps.LatLng(-12.986138, -38.478608),
         map: map,
 		icon: 'img/icons/map-marker.png',
-    });
-}
+    });*/
+//}
 
 // ========== END GOOGLE MAP ========== //
 

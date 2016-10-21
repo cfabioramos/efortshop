@@ -738,9 +738,33 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 	<!-- jquery.fancybox.pack -->
 	<script src="js/jquery.fancybox.pack.js"></script>
 	<!-- Google Map API -->
-	<!--script src="http://maps.google.com/maps/api/js?sensor=false"></script-->
-	<!--script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyADpCv8MmBLpBtvoyrBzVikvhWvwZdmFtI&callback=initMap" async defer></script-->
-	<script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyADpCv8MmBLpBtvoyrBzVikvhWvwZdmFtI"> </script>
+	<script>
+		
+	// When the window has finished loading create our google map below
+	//google.maps.event.addDomListener(window, 'load', initMap);
+
+      function initMap() {
+        // Create a map object and specify the DOM element for display.
+        var map = new google.maps.Map(document.getElementById('map-canvas'), {
+          center: {lat: -12.986138, lng: -38.478608},
+          // Set mapTypeId to SATELLITE in order
+          // to activate satellite imagery.
+          mapTypeId: 'satellite',
+          scrollwheel: false,
+          zoom: 15
+        });
+
+        // Let's also add a marker while we're at it
+	    var marker = new google.maps.Marker({
+	        position: new google.maps.LatLng(-12.986138, -38.478608),
+	        map: map,
+			icon: 'img/icons/map-marker.png',
+	    });
+      }
+
+    </script>
+   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCdDPkmPhzulallNzvcJ1BEHyhOub6Bh7g&callback=initMap" async defer></script>
+	<!--script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyADpCv8MmBLpBtvoyrBzVikvhWvwZdmFtI"> </script-->
 
 	
 	<!-- Owl Carousel -->
