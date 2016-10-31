@@ -49,24 +49,6 @@
 <!-- Modernizer Script for old Browsers -->
 <script src="js/modernizr-2.6.2.min.js"></script>
 
-<!-- Piwik -->
-<!--
-	<script type="text/javascript">
-		var _paq = _paq || [];
-	  	_paq.push(['trackPageView']);
-	  	_paq.push(['enableLinkTracking']);
-	  	(function() {
-	    	var u="//cluster-piwik.locaweb.com.br/";
-	    	_paq.push(['setTrackerUrl', u+'piwik.php']);
-	    	_paq.push(['setSiteId', 8149]);
-	    	var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-	    	g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-	  	})();
-	</script>
-	<noscript><p><img src="//cluster-piwik.locaweb.com.br/piwik.php?idsite=8149" style="border:0;" alt="" /></p></noscript>
--->
-<!-- End Piwik Code -->
-
 <?php
 	$msgNews= 0;
 	@$msgNews= $_REQUEST['msgNews'];
@@ -134,6 +116,26 @@
 
 			<div class="sl-slider">
 
+				<div class="sl-slide" data-orientation="vertical"
+					data-slice1-rotation="10" data-slice2-rotation="-15"
+					data-slice1-scale="1.5" data-slice2-scale="1.5">
+
+					<div class="bg-img bg-img-2"></div>
+					<div class="slide-caption">
+						<div class="caption-content">
+							<h2>Consultoria e Vendas</h2>
+							<span>Da união de um grupo competente e disciplinado surgiu uma grande capacidade de <br>
+							atuar com excelência nas áreas de desenvolvimento de software e vendas de equipamentos de informática. 
+							<br><br> O resultado? <br><br> Preço e qualidade</span>
+							<a href="#service"
+								class="btn btn-blue btn-effect">Serviços</a>&nbsp;&nbsp;&nbsp;
+							<a href="#sale"
+								class="btn btn-blue btn-effect">Vendas</a>
+						</div>
+					</div>
+
+				</div>
+
 				<div class="sl-slide" data-orientation="horizontal"
 					data-slice1-rotation="-25" data-slice2-rotation="-25"
 					data-slice1-scale="2" data-slice2-scale="2">
@@ -146,22 +148,6 @@
 							<span class="animated fadeInDown">Conhece alguma outra
 								empresa de TI com esse estilo?</span> <a href="#service"
 								class="btn btn-blue btn-effect">Nossos Serviços</a>
-						</div>
-					</div>
-
-				</div>
-
-				<div class="sl-slide" data-orientation="vertical"
-					data-slice1-rotation="10" data-slice2-rotation="-15"
-					data-slice1-scale="1.5" data-slice2-scale="1.5">
-
-					<div class="bg-img bg-img-2"></div>
-					<div class="slide-caption">
-						<div class="caption-content">
-							<h2>Consultoria e Vendas</h2>
-							<span>Da união de um grupo competente e disciplinado surgiu uma grande capacidade de <br>
-							atuar com excelência nas áreas de desenvolvimento de software e vendas de equipamentos de informática. 
-							<br><br> O resultado? <br><br> Preço e qualidade</span>
 						</div>
 					</div>
 
@@ -184,14 +170,6 @@
 				</div>
 
 			</div>
-			<!-- /sl-slider -->
-
-			<!-- 
-                <nav id="nav-arrows" class="nav-arrows">
-                    <span class="nav-arrow-prev">Previous</span>
-                    <span class="nav-arrow-next">Next</span>
-                </nav>
-                -->
 
 			<nav id="nav-arrows"
 				class="nav-arrows hidden-xs hidden-sm visible-md visible-lg">
@@ -252,11 +230,10 @@
 						<div class="message-body">
 							<img src="img/EforteShop_LOGOMARCA.png" class="pull-left" alt="member">
 							<p>
-								Fundada no ano de 1992, a Moura & Mascarenhas LTDA iniciou suas atividades no segmento de vendas nas áreas de papelaria, livraria e suprimentos de informática. 
-Após alguns anos iniciamos uma filial para atuar com maior foco na área de TI, pois percebemos que este era, e continua sendo, um mercado muito carente na Bahia.
-A partir de então, iniciamos as atividades com a “EfortShop”, que iniciaria com uma base sólida, herdando muita experiência de atendimento e comprometimento com os seus clientes, com uma filosofia de trabalho de união e respeito.
-No nosso espaço físico, localizado no bairro de Brotas, estudamos as novas tecnologias de mercado, testamos e entendemos as funcionalidades de cada equipamento antes das instalações, orientamos nossos clientes e executamos os serviços conforme o combinado. A qualidade do serviço junto com um bom atendimento é a nossa prioridade.
-Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas retiramos um "f" para facilitar o entendimento.
+								Fundada no ano de 1992, a Moura & Mascarenhas LTDA iniciou suas atividades no segmento de vendas nas áreas de papelaria, livraria, materiais de escritório e suprimentos de informática. Após alguns anos iniciamos uma filial para atuar com maior foco na área de informática, pois percebemos que este era, e continua sendo, um mercado muito carente no nordeste do Brasil. A partir de então, demos início às atividades com a “EfortShop”, que iniciaria com uma base sólida, recebendo uma herança muito valiosa, além de material, de experiência no atendimento e comprometimento com os seus clientes, com uma filosofia de trabalho de união e respeito.
+<br>No nosso espaço físico, localizado no bairro de Brotas, além de concentrarmos um estoque com uma grande variedade de equipamentos de informática, é onde estudamos as novas tecnologias de mercado, testamos e entendemos as funcionalidades de cada equipamento antes das instalações. Feito isso, orientamos nossos clientes e executamos os serviços conforme o combinado. A qualidade do serviço junto com um bom atendimento é a nossa prioridade. 
+<br><br>Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas retiramos um "f" para facilitar na comunicação.
+<br><br> Obrigado pela visita!
 							</p>
 						</div>
 						<!--a href="#" class="btn btn-border btn-effect pull-right">Read
@@ -368,10 +345,9 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 						<figcaption class="mask">
 							<h3>Nosso Estoque</h3>
 							<p>
-								No nosso estoque concentramos uma grande variedade de
-								equipamentos de informática. Confira o
-									nosso <a href="docs/catalogo_informatica.xlsx" 
-									target="#">catálogo</a>.
+								Aqui concentramos uma grande variedade de produtos. 
+								Confira o nosso <a href="docs/catalogo_informatica.xlsx" 
+									target="#">catálogo</a> para vendas a varejo com pagamento à vista.
 							</p>
 						</figcaption>
 						<ul class="external">
@@ -387,7 +363,7 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 						<figcaption class="mask">
 							<h3>Destaque da semana</h3>
 							<p>
-								Confira os nossos produtos em destaque no momento.
+								<br> Confira os nossos produtos em destaque no momento.
 							</p>
 						</figcaption>
 						<ul class="external">
@@ -402,12 +378,13 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 						alt="Em tempos difíceis, as empresas que tem bons relacionamentos e conseguem 
 							atender aos seus clientes em um escopo maior de necessidades,
 							são as que conseguem se manter firmes e ultrapassar bem os obstáculos.
-							Entre em contato com os nossos consultores de venda e analise as 
+							Entre em contato com os nossos consultores de vendas e analise as 
 							condições e preços que podemos oferecer em nossas mercadorias.
 							">
 						<figcaption class="mask">
 							<h3>Preços especiais para PJ</h3>
-							<p><a href="#contact">Contate-nos</a> e confira as condições e preços diferenciados para empresas.</p>
+							<p><a href="#contact">Contate-nos</a> e confira as condições, as promoções 
+							e os preços diferenciados para empresas.</p>
 						</figcaption>
 						<ul class="external">
 							<li><a class="fancybox" title="Preços e Condições Especiais para Pessoa Jurídica"
@@ -430,6 +407,16 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 
 					<div id="testimonial" class=" wow animated fadeInUp">
 						<div class="testimonial-item text-center">
+							<img src="img/testimonials/rosane.png" alt="Our Clients">
+							<div class="clearfix">
+								<span>Rosane Pereira</span>, Lacerda e Mesquita - Assessoria Jurídica
+								<p>Recomendo o trabalho da EFORT! 
+								O atendimento é ótimo, rápido e de qualidade! 
+								Além de tudo, o trabalho é desempenhado com muita seriedade. 
+								Confio e indico! Parabéns!.</p>
+							</div>
+						</div>
+						<div class="testimonial-item text-center">
 							<img src="img/testimonials/priscila.jpg" alt="Nossos clientes">
 							<div class="clearfix">
 								<span>Priscila Carvalho</span>
@@ -440,18 +427,6 @@ Ah! No nome, a palavra Efort vem da palavra Effort (esforço em inglês). Apenas r
 								executam os trabalhos com qualidade.</p>
 							</div>
 						</div>
-						<!--div class="testimonial-item text-center">
-							<img src="img/member-1.jpg" alt="Our Clients">
-							<div class="clearfix">
-								<span>Katty Flower</span>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-									sed do eiusmod tempor incididunt ut labore et dolore magna
-									aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-									ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-									aute irure dolor in reprehenderit in voluptate velit esse
-									cillum dolore eu fugiat nulla pariatur.</p>
-							</div>
-						</div-->
 					</div>
 
 				</div>
