@@ -255,21 +255,7 @@
 					de trabalhar com verdade. <br><br> <b>Como podemos te ajudar?</b></p>
 				</div>
 
-				<a href="#openModalServices_web">
-					<div
-						class="col-md-3 col-sm-6 col-xs-12 text-center wow animated zoomIn">
-						<div class="service-item">
-							<div class="service-icon">
-								<i class="fa fa-soundcloud fa-3x"></i>
-							</div>
-							<h3>Sua necessidade é na Web?</h3>
-							<p> <b>Sistema corporativo? E-commerce? Serviço Web? Ou um simples site?</b><br>
-							Seja qual for a sua necessidade na web,
-							somos uma equipe com bastante experiencia na área pronta para te atender.</p>
-						</div>
-					</div>
-				</a>
-
+				<a href="#openModalReparoCelular_web">
 				<div
 					class="col-md-3 col-sm-6 col-xs-12 text-center wow animated zoomIn"
 					data-wow-delay="0.3s">
@@ -277,32 +263,41 @@
 						<div class="service-icon">
 							<i class="fa fa-mobile fa-3x"></i>
 						</div>
-						<h3>Ou aplicativo desktop ou mobile?</h3>
-						<p>Sempre que desenvolvemos um aplicativo web 
-						temos a procupação em adequa-lo para uma boa exibição em dispositivos móveis. 
-						Contudo, muitas vezes, a usabilidade e a performance exigem
-						a criação de um aplicativo nativo. Sendo este o seu caso,
-						temos expertize no desenvolvimento de aplicativos para os 
-						SOs Android e iOS.
-						</p>
+						<h3>Troca de Tela de Celular</h3>
+						<p>Realizamos serviços de troca de tela de aparelhos celulares. <br>
+						Clique aqui e veja o valor da troca da tela do seu aparelho.</p>
 					</div>
 				</div>
+				</a>
 
 				<div
 					class="col-md-3 col-sm-6 col-xs-12 text-center wow animated zoomIn"
 					data-wow-delay="0.6s">
 					<div class="service-item">
 						<div class="service-icon">
-							<i class="fa fa-audio-description fa-3x"></i>
+							<i class="fa fa-desktop fa-3x"></i>
 						</div>
-						<h3>Precisando de apoio na estratégia de marketing na web do seu negócio?</h3>
-						<p> Confira o nosso site e as nossas <a href="#social">redes sociais</a>.
-						São bons exemplos do que você espera em qualidade?
-						Sabe, também somos facilmente encontrados nos sites de busca...<br>
-						E queremos dar a mesma qualidade ao seu negócio. <a href="#contact">Contate-nos</a>.
+						<h3>Manutenção em computadores e notebooks</h3>
+						<p> Realizamos manutenções corretivas e preventivas em computadores e notebooks.
+						Além disso, conte conosco caso o seu computador esteja precisando de um upgrade.
 						</p>
 					</div>
 				</div>
+
+				<a href="#openModalServices_web">
+					<div
+						class="col-md-3 col-sm-6 col-xs-12 text-center wow animated zoomIn">
+						<div class="service-item">
+							<div class="service-icon">
+								<i class="fa fa-soundcloud fa-3x"></i>
+							</div>
+							<h3>Ou a sua necessidade é na Web?</h3>
+							<p> <b>Sistema corporativo? E-commerce? Serviço Web? Ou um simples site?</b><br>
+							Seja qual for a sua necessidade na web,
+							somos uma equipe com bastante experiencia na área pronta para te atender.</p>
+						</div>
+					</div>
+				</a>
 
 				<div
 					class="col-md-3 col-sm-6 col-xs-12 text-center wow animated zoomIn"
@@ -660,6 +655,37 @@
       </div>
     </div>
   </div>
+
+<div id="openModalReparoCelular_web" class="modalWindow">
+	<div>
+		<div class="modalHeader text-center">
+			<h2>CONFIRA O MODELO E O VALOR DA TELA DO SEU APARELHO</h2>
+			<a href="#close" title="Close" class="close">X</a>
+		</div>
+		
+		<div class="modalContent">
+		<p><b>Sansung Duos:</b></p>
+		
+		<p>R$ 450,00</p>
+
+		<p>(ii) Ou, se você quer potencializar as suas vendas, 
+			disponibilizando um bom e-commerce para os seus clientes,
+			conseguimos sugerir uma solução que, com certeza, irá atender
+			às suas necessidades.
+		</p>
+		<p>(iii) Ou a sua necessidade é desenvolver sistemas corporativos? <br>
+			Já decidiu a linguagem de programação? Em Java, Php, Python, Ruby..?
+			E o banco de dados? Oracle, SQL Server, DB2, PostgreSQL, MySQL ou está 
+			com foco em escalabilidade e prefere usar outro paradigma, como o No-Sql?
+			<br>Se preferir, podemos te ajudar a fazer estas análises.
+		</p><br>
+		<p><b>O NOSSO DIFERENCIAL</b><br>
+			Entre em contato conosco caso o modelo desejado não esteja relacionado.
+		</p><br>
+
+		</div>
+	</div>
+</div>
 
 <div id="openModalServices_web" class="modalWindow">
 	<div>
