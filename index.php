@@ -255,7 +255,7 @@
 					de trabalhar com verdade. <br><br> <b>Como podemos te ajudar?</b></p>
 				</div>
 
-				<a href="#openModalReparoCelular_web">
+				<!--a href="#openModalReparoCelular_web"-->
 				<div
 					class="col-md-3 col-sm-6 col-xs-12 text-center wow animated zoomIn"
 					data-wow-delay="0.3s">
@@ -263,12 +263,12 @@
 						<div class="service-icon">
 							<i class="fa fa-mobile fa-3x"></i>
 						</div>
-						<h3>Troca de Tela de Celular</h3>
-						<p>Realizamos serviços de troca de tela de aparelhos celulares. <br>
-						Clique aqui e veja o valor da troca da tela do seu aparelho.</p>
+						<h3>Troca de Tela ou Display de aparelho Celular</h3>
+						<p>Realizamos serviços de troca de tela e display de aparelhos celulares.<br>
+						</p>
 					</div>
 				</div>
-				</a>
+				<!--/a-->
 
 				<div
 					class="col-md-3 col-sm-6 col-xs-12 text-center wow animated zoomIn"
